@@ -21,9 +21,9 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/nicolaswehmeyer/supanuxt
+git clone https://github.com/Paladoy/504490-wongnok-recipes.git
 # Change directories
-cd supanuxt
+cd 504490-wongnok-recipes
 # yarn
 npm install
 ```
